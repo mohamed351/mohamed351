@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning  React Js , Next Js , Python , Statistics , Math
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed351" alt="mohamed351" /></a> </p>
-<img src="https://user-images.githubusercontent.com/34129557/166080128-7688007b-bbdb-48d8-88a6-c009626447d0.gif" width="100%" >
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,4 +17,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed351&show_icons=true&locale=en&layout=compact" alt="mohamed351" /></p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed351&" alt="mohamed351" /></p>
+
+
+<img src="https://user-images.githubusercontent.com/34129557/166080128-7688007b-bbdb-48d8-88a6-c009626447d0.gif" width="100%" >
 
