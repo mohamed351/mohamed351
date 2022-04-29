@@ -19,5 +19,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed351&" alt="mohamed351" /></p>
 
 
-<img src="https://user-images.githubusercontent.com/34129557/166080128-7688007b-bbdb-48d8-88a6-c009626447d0.gif" width="100%" >
+
 
