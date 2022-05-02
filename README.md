@@ -1,10 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohameded351&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed351" /> </p>
+<img src="https://user-images.githubusercontent.com/34129557/166261310-eee8b8fe-b837-4e5a-834b-ade4c48c99cd.gif" width="100%" />
 <img src="https://user-images.githubusercontent.com/34129557/166073107-c8efa774-e141-4613-9718-67cb7523a6dc.gif" width="150"  />
 <img src="https://user-images.githubusercontent.com/34129557/166073400-0020dcf9-1af1-45ff-ae6c-1443b3e46430.gif"  width="150"/>
 
 - 👋 Hi, I’m Mohamed Beshri Amer
 - 👀 I’m interested in Web Development , Mobile Development, Data Analysis 
 - 🌱 I’m currently learning  React Js , Next Js , Python , Statistics , Math
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed351" alt="mohamed351" /></a> </p>
 
