@@ -19,7 +19,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed351&show_icons=true&locale=en&layout=compact" alt="mohamed351" /></p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed351&" alt="mohamed351" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed351&show_icons=true&locale=en" alt="mohamed351" />
 
 
 
