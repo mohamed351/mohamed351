@@ -13,7 +13,6 @@ I am not friendly person , especially with careless people and I hate girls , i 
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed351" alt="mohamed351" /></a> </p>
 
 
 
